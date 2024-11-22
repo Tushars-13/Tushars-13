@@ -3,9 +3,9 @@
 <!--- Adding Header Elements -->
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/tushar-shukla-41924729b/" title="LinkedIn Profile"><img width="28" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/Tushars1342/" title="Leetcode Profile"><img width="30" src="images/leetcode.png"> Leetcode</a></code>
-  <code><a href="https://www.hackerrank.com/profile/shuklatushar7399" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/tushar-shukla-41924729b/" title="LinkedIn Profile"><img width="28" src="linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/Tushars1342/" title="Leetcode Profile"><img width="30" src="leetcode.png"> Leetcode</a></code>
+  <code><a href="https://www.hackerrank.com/profile/shuklatushar7399" title="HackerRank Profile"><img width="30" src="hackerrank.png"> HackerRank</a></code>
 <!--   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
 </h5>
 
