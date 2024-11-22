@@ -12,7 +12,7 @@
 
 -----------------------------------------------------------
 <ul><h3>**About Me**</h3><img src="https://github.com/Tushars-13/Tushars-13/blob/main/boy_laptop.png" min-width="500px" max-width="500px" width="400px" align="right"> 
-<li>✨Contibutor at GSSoC'24 extd.</li> 
+<!-- <li>✨Contibutor at GSSoC'24 extd.</li> -->
 <li>👨🏻‍💻Sophomore Engineering Student</li>
 <li>🫡Active Learner, Inquistive Mind😄</li>
 </ul>
@@ -34,14 +34,14 @@
 <!--- Recent Projects -->
 
   <h3>📚 Recent Projects/ Activity</h3>
-  ✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a>&nbsp; 
+  <!--✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a>&nbsp; 
   ✨ <a href="https://github.com/Harsh-o4/netflix-homepage-clone">Netflix Homepage Clone</a><br>
   ✨ <a href="https://github.com/Harsh-o4/myntra-homepage-clone">Myntra Homepage Clone</a>&nbsp; 
   ✨ <a href="https://github.com/Harsh-o4/flipkart-homepage-clone">Flipkart Homepage Clone</a><br>
   ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a>&nbsp; &nbsp; &nbsp; 
   ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br>
   ✨ <a href="https://github.com/Harsh-o4/number-guessing-game">Number Guessing game</a>&nbsp;&nbsp; 
-  ✨ <a href="https://github.com/Harsh-o4/singly-linked-list-mini-project">Singly linked list (mini project)</a><br>
+  ✨ <a href="https://github.com/Harsh-o4/singly-linked-list-mini-project">Singly linked list (mini project)</a><br> -->
 
 
 
