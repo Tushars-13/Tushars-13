@@ -15,7 +15,7 @@
 <!-- <li>✨Contibutor at GSSoC'24 extd.</li> -->
 <li>👨🏻‍💻Sophomore Engineering Student</li>
 <li>🫡Active Learner</li>
-<li>😄Inquistive Mind</li>
+<li>😄Inquisitive Mind</li>
 </ul>
 
 <!--- experience and achievements -->
