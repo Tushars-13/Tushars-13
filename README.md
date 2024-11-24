@@ -11,10 +11,11 @@
 
 
 -----------------------------------------------------------
-<ul><h3>**About Me**</h3><img src="https://github.com/Tushars-13/Tushars-13/blob/main/boy_laptop.png" min-width="500px" max-width="500px" width="400px" align="right"> 
+<ul><h3>**About Me**</h3><img src="https://github.com/Tushars-13/Tushars-13/blob/main/boy_laptop.png" min-width="300px" max-width="300px" width="300px" align="right"> 
 <!-- <li>✨Contibutor at GSSoC'24 extd.</li> -->
 <li>👨🏻‍💻Sophomore Engineering Student</li>
-<li>🫡Active Learner, Inquistive Mind😄</li>
+<li>🫡Active Learner</li>
+<li>😄Inquistive Mind</li>
 </ul>
 
 <!--- experience and achievements -->
@@ -89,4 +90,4 @@
 <br><br>
 <!--- Footer -->
   <p align="center">
-<b> Show some ❤️ by starring some of the repositories!.</p>
+<b> Show some ❤️ by starring some of my repositories!.</p>
