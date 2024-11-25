@@ -11,7 +11,7 @@
 
 
 -----------------------------------------------------------
-<ul><h3>**About Me**</h3><img src="https://github.com/Tushars-13/Tushars-13/blob/main/my_gif.gif" min-width="300px" max-width="300px" width="300px" align="right">
+<ul><h3>**About Me**</h3><img src="https://github.com/Tushars-13/Tushars-13/blob/main/git_README_icon.gif" min-width="400px" max-width="400px" width="400px" align="right">
 </ul>
 <!-- <li>✨Contibutor at GSSoC'24 extd.</li> -->
 <li>👨🏻‍💻Sophomore Engineering Student</li>
