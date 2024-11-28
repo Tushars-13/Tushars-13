@@ -25,7 +25,8 @@
 <!-- <li>🙋Participant at <b>HackIndia 2024</b>  &nbsp; &nbsp; &nbsp;  (Sep 2024)</li> -->
 <!-- <li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li> -->
 <li>🏅Top-10 at <b>Code-o-Fiesta 2.0</b>  &nbsp;  (April 2024)</li>
-<li>🏢Intern at <b>CodeXIntern</b>  &nbsp; &nbsp; &nbsp; &nbsp; (November 2024) <a href="https://drive.google.com/file/d/15e6ni2P6ncmzCmiGJjMCrpCUzty6RFF4/view">View Certificaton</a>&nbsp;</li>
+<li>🏢Intern at <b>CodeXIntern</b>  &nbsp; &nbsp; &nbsp;(November 2024)&nbsp; &nbsp;<a href="https://drive.google.com/file/d/15e6ni2P6ncmzCmiGJjMCrpCUzty6RFF4/view">(View Certificaton)</a> </li>
+
 
 </ul> <br>
 <!--- Adding Tech Stack open Section -->
