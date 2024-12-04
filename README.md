@@ -38,9 +38,9 @@
 <!--- Recent Projects -->
 
   <h3>📚 Recent Projects/ Activity</h3>
-  ✨ <a href="https://github.com/Tushars-13/CodeXIntern/tree/main/CodeXintern">CodeXIntern Python projects</a>&nbsp; 
-  <!-- ✨ <a href="https://github.com/Harsh-o4/netflix-homepage-clone">Netflix Homepage Clone</a><br>
-  ✨ <a href="https://github.com/Harsh-o4/myntra-homepage-clone">Myntra Homepage Clone</a>&nbsp; 
+  ✨ <a href="https://github.com/Tushars-13/CodeXIntern/tree/main/CodeXintern">CodeXIntern Python projects</a><br> 
+  ✨ <a href="">Leetcode Solutions</a><br>
+<!--  ✨ <a href="https://github.com/Harsh-o4/myntra-homepage-clone">Myntra Homepage Clone</a>&nbsp; 
   ✨ <a href="https://github.com/Harsh-o4/flipkart-homepage-clone">Flipkart Homepage Clone</a><br>
   ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a>&nbsp; &nbsp; &nbsp; 
   ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br>
