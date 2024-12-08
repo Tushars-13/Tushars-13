@@ -1,4 +1,6 @@
-<h1 align="center"> <img src="https://github.com/Tushars-13/Tushars-13/blob/main/hello.gif" width="120">there, I'm <a href="https://www.linkedin.com/in/tushar-shukla-41924729b/">Tushar</a> </h1>
+<h1 align="center">
+  <img src="https://github.com/Tushars-13/Tushars-13/blob/main/hello.gif" width="120">there, I'm <a href="https://www.linkedin.com/in/tushar-shukla-41924729b/">Tushar</a> 
+</h1>
 
 <!--- Adding Header Elements -->
 
