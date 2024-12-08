@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi there, I'm <a href="https://www.linkedin.com/in/harsh-o4/">Tushar</a> </h1>
+<h1 align="center"> <img src="https://github.com/Tushars-13/Tushars-13/blob/main/hello.gif" width="120">there, I'm <a href="https://www.linkedin.com/in/tushar-shukla-41924729b/">Tushar</a> </h1>
 
 <!--- Adding Header Elements -->
 
