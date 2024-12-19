@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Tushars-13/Tushars-13/blob/main/hello2.gif" height="120" width="120">Hi there, I'm <a href="https://www.linkedin.com/in/tushar-shukla-41924729b/">Tushar</a>
+  <img src="https://github.com/Tushars-13/Tushars-13/blob/main/hello2.gif" height="120" width="120"><br>Hi there, I'm <a href="https://www.linkedin.com/in/tushar-shukla-41924729b/">Tushar</a>
 </h1>
 
 <!--- Adding Header Elements -->
